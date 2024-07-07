@@ -9,7 +9,8 @@ export const FormContainer = styled.form`
   display: flex;
   flex-direction: column;
   gap: 10px;
-  width: 450px;
+  width: 100%;
+  max-width: 400px;
 `;
 
 export const Input = styled.input`
