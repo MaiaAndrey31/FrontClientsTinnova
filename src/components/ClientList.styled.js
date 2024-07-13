@@ -7,17 +7,20 @@ export const Container = styled.div`
 
 export const Table = styled.table`
   width: 100%;
+  background-color: #b9b9ff;
   border-collapse: collapse;
 
   th, td {
     border: 1px solid #ddd;
     padding: 8px;
     text-align: left;
+    
   }
 
   th {
-    background-color: #f2f2f2;
-  }
+    background-color: #9099ff;
+    text-align: center;
+    color: #efefef;  }
 `;
 
 export const Button = styled.button`

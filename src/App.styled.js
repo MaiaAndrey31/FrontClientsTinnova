@@ -4,7 +4,7 @@ export const GlobalStyle = createGlobalStyle`
   body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #fff;
+    background-color: #6f6f6f;
   }
 `;
 
