@@ -42,7 +42,7 @@ Validação de CPF: Implementada utilizando uma função de validação que veri
 Estado de Loading: Adicionado ao botão de cadastro para indicar que a operação está em progresso.
 Persistência de Dados: Os dados são armazenados no localStorage para garantir a persistência entre as sessões.
 Estrutura de Pastas
-``plaintext
+```plaintext
 
 src/
 ├── components/
@@ -58,7 +58,7 @@ src/
 ├── App.styled.js
 ├── index.js
 └── setupTests.js
-``
+```
 
 Estilização
 A estilização foi feita utilizando styled-components, permitindo a criação de componentes estilizados de forma modular e reutilizável.
