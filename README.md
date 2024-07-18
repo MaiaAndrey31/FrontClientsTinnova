@@ -8,16 +8,16 @@ Esta é uma aplicação de gerenciamento de clientes que permite criar, listar e
 
 Primeiro, clone o repositório para o seu ambiente local usando o comando:
 
-```bash
-git clone https://github.com/MaiaAndrey31/FrontClientsTinnova
+bash
+git clone https://github.com/MaiaAndrey31/FrontClientsTinnova 
 
-2. Instalar Dependências
+### 2. Instalar Dependências
 Navegue até o diretório do projeto e instale as dependências necessárias usando o Yarn:
 
 cd nome-do-repositorio
 yarn install
 
-3. Iniciar a Aplicação
+### 3. Iniciar a Aplicação
 Para iniciar a aplicação, execute o comando:
 
 bash
@@ -25,7 +25,7 @@ bash
 yarn dev
 A aplicação estará disponível em http://localhost:5173.
 
-4. Rodar os Testes
+### 4. Rodar os Testes
 Para rodar os testes, utilize o comando:
 
 bash
