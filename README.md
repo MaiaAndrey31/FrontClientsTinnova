@@ -23,7 +23,7 @@ Para iniciar a aplicação, execute o comando:
 bash
 
 yarn dev
-A aplicação estará disponível em http://localhost:3000.
+A aplicação estará disponível em http://localhost:5173.
 
 4. Rodar os Testes
 Para rodar os testes, utilize o comando:
